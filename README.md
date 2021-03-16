@@ -3,7 +3,7 @@
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Soorya Saravanapavan, and I'm a Software Engineering student at the University of Ottawa. I'm from Brampton, Canada, and I'm currently looking for internships for the summer of 2021!
+My name is Soorya Saravanapavan, and I'm a Software Engineering student at the University of Ottawa. I'm from Brampton, Canada, and I'm currently looking for internships for the fall of 2021!
 
 Note: This page is still a WIP. More updates soon!
 
