@@ -4,7 +4,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there! I'm Soorya Saravanapavan.
 
 - 🎓 Currently a Software Engineering Student at the University of Ottawa, Class of 2023
-- 💼 Incoming Software Engineering Intern at Lumentum 
+- 💼 Software Engineering Intern at Lumentum 
 - ❤️ Project Manager at [Software For Love](https://github.com/Software-For-Love)
 - 🙋 Currently looking for internships starting in Fall 2021!
 - 🕸️ You can find more information about me through [my website!](https://soorya.io)
