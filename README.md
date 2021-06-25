@@ -5,7 +5,7 @@
 
 - 🎓 Currently a Software Engineering Student at the University of Ottawa, Class of 2023
 - 💼 Software Engineering Intern at Lumentum 
-- ❤️ Project Manager at [Software For Love](https://github.com/Software-For-Love)
+- ❤️ CTO at [Software For Love](https://github.com/Software-For-Love)
 - 🙋 Currently looking for internships starting in Fall 2021!
 - 🕸️ You can find more information about me through [my website!](https://soorya.io)
 - 💬 You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-Soorya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soorya-s/)](https://www.linkedin.com/in/soorya-s/)
